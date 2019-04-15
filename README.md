@@ -5,8 +5,9 @@ About:
 
 Screenshoots:
 <p align="center">
-  <img src="https://github.com/soadap/Project-1.-Light/blob/master/Screenshoots/screenshoot1.png?raw=true" width="350" title="ss1">
-  <img src="https://github.com/soadap/Project-1.-Light/blob/master/Screenshoots/screenshoot2.png?raw=true" width="350" title="ss2">
+  <img src="https://github.com/soadap/UpcomingMovieDB/blob/master/Screenshoots/screenshoot1.png?raw=true" width="300" title="ss1">
+  <img src="https://github.com/soadap/UpcomingMovieDB/blob/master/Screenshoots/screenshoot2.png?raw=true" width="300" title="ss1">
+  <img src="https://github.com/soadap/UpcomingMovieDB/blob/master/Screenshoots/screenshoot3.png?raw=true" width="300" title="ss1">
 </p>
 
 Description: Click on the movie to open detailed view. Swype down to back from detailed view to main menu.
