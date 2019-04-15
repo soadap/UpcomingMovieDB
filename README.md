@@ -5,9 +5,9 @@ About:
 
 Screenshoots:
 <p align="center">
-  <img src="https://github.com/soadap/UpcomingMovieDB/blob/master/Screenshoots/screenshoot1.png?raw=true" width="300" title="ss1">
-  <img src="https://github.com/soadap/UpcomingMovieDB/blob/master/Screenshoots/screenshoot2.png?raw=true" width="300" title="ss1">
-  <img src="https://github.com/soadap/UpcomingMovieDB/blob/master/Screenshoots/screenshoot3.png?raw=true" width="300" title="ss1">
+  <img src="https://github.com/soadap/UpcomingMovieDB/blob/master/Screenshoots/screenshoot1.png?raw=true" width="250" title="ss1">
+  <img src="https://github.com/soadap/UpcomingMovieDB/blob/master/Screenshoots/screenshoot2.png?raw=true" width="250" title="ss1">
+  <img src="https://github.com/soadap/UpcomingMovieDB/blob/master/Screenshoots/screenshoot3.png?raw=true" width="250" title="ss1">
 </p>
 
 Description: Click on the movie to open detailed view. Swype down to back from detailed view to main menu.
@@ -18,4 +18,5 @@ For this project used ​The MovieDB API​ to get upcoming movies.
 To run this application you need to get API key - see API_KEY.SAMPLE.swift for details.
 
 For parallax UI was used materials from this article:
+
 https://medium.com/@uthoft.jin/how-to-animate-uicollectionview-using-a-custom-uicollectionviewlayout-a7513add25b2
